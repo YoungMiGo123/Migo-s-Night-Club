@@ -1,0 +1,18 @@
+Create a website for a give n night club similiar to prime ... 
+
+The website should include the following things: 
+
+-You must be able to login into the site and see the back end of the site... 
+
+-It must have interactions, seeing what specials there is... 
+
+-The website must be able to incorporate other forms of social media like Facebook and Google Maps
+
+-You must be able to add pics and videos to the website.
+
+-The website must be hooked up to a database.
+
+-The website must contain descriptions of what they about: like the logo of the club, slogan, motives, goals and objectives.
+
+-
+
